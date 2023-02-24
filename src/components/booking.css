@@ -1,0 +1,402 @@
+.profiles{
+    position: absolute;
+    right: 0px;
+}
+.inp1{
+    width:200px
+}
+.inp{
+    width: 390px;
+    /* position: relative;
+    left: 24px; */
+}
+.inp-label{
+    position: relative;
+    left: 16px;
+    top: 29px;
+}
+.inp2{
+    width: 200px;
+    margin-left: 100px;
+}
+.span-inp2{
+    margin-left: 50px;
+}
+.div-box-1{
+    display: block; 
+}
+.sumbit-btns{
+    position: relative;
+    top: 47px;
+    left: 18px;
+}
+.flight-main-div{
+    display: block;
+    width: 490px;
+    height: 490px;
+    box-shadow: 1px 4px 15px 1px rgb(0 0 0 / 20%), 1px 1px 0px 0px rgb(0 0 0 / 10%);
+}
+.flight-main-span{
+    position: relative;   
+}
+.flight-main-header{
+    position: relative;
+    top: 14px;
+    font-weight: 600;
+    left: 19px;
+}
+.flight-main-btns{
+    position: relative;
+    left: 19px;
+    margin-top: 16px;
+    top: 14px;
+}
+.flight-main-div-inp2{
+    margin-left: 30px;
+}
+.flight-main-div-inp4{
+    margin-left: 30px;
+}
+.div2-check{
+    display: flex;
+    position: relative;
+    position: relative;
+    right: -8px;
+    top: 29px;
+}
+.div1-check{
+    position: relative;
+    top: 38px;
+    left: 7px;
+}
+div.flight-div-cards{
+    /* border-radius: 5px;
+    box-shadow: 0px 0px 8px 2px rgb(0 0 0 / 20%), 1px 1px 2px 0px rgb(0 0 0 / 10%); */
+    border-radius: 12px;
+    box-shadow: 1px 4px 15px 1px rgb(0 0 0 / 20%), 1px 1px 0px 0px rgb(0 0 0 / 10%);
+    margin-top: 19px;
+    display: flex;
+    height: 143px;
+    width: 1000px;
+    position: relative;
+    left: 42px;
+}
+.header-div{
+    /* background-color: rgb(178, 178, 218); */
+    height: 90px;
+    background-image: linear-gradient(to bottom right,rgb(247, 125, 59), rgb(243, 96, 96));
+}
+img{
+    width: 6%;
+    height: 39px;
+    position: relative;
+    left: 18px;
+    top: 17px;
+    border-radius: 4px;
+}
+
+/* .review-fare-details{
+    background-color: coral;
+} */
+.flightname{
+    position: relative;
+    top: 0px;
+    left: 20px;
+}
+.f-code{
+    /* position: relative;
+    bottom: 73px;
+    font-size: small;
+    left: 48px; */
+    font-size: small;
+    color: rgb(137, 134, 134);
+    font-kerning: none;
+    position: relative;
+    bottom: -21px;
+    font-size: small;
+    left: -28px;
+    /* font-synthesis-style: revert; */
+    font: small-caption;
+}
+.review-line-horizontal{
+   
+    border-bottom: 1px solid rgb(207, 205, 202);
+    position: absolute;
+    left: 385px;
+    top: 111px;
+    width: 394px;
+}
+  
+.line{
+    width: 72px;
+    height: 47px;
+    border-bottom: 1px solid rgb(207, 205, 202);
+    position: absolute;
+    left: 312px;
+    top: -19px;
+    }
+.line-vertical{
+    height: 37%;
+    float: left;
+    border: 1px solid rgb(207, 205, 202);;
+    right: -248px;
+    top: 10px;
+    position: relative;
+}
+#review-fare-traveller{
+    left: 27px;
+    height: 300px;
+    background-color: white;
+    width: 1011px;
+    position: relative;
+    bottom: 293px;
+    /* border:1px solid; */
+}
+.trveller-detailes{
+    position: relative;
+    /* border: 121px; */
+    top: -309px;
+    left: 36px;
+}
+.rupee-div{
+    position: relative;
+    left: 466px;
+    top: 31px;
+}
+.time-style{
+    font-weight: 600;
+}
+.time-st{
+    position: relative;
+    left: 54px; 
+}
+.time-et{
+    position: relative;
+    left: 150px;
+}
+.deptfrom-fl{
+    position: relative;
+    top: 22px;
+    right: 130px;
+    font-size: small;
+    color: rgb(137, 134, 134);
+}
+.goito-fl{
+    position: relative;
+    top: 22px;
+    right: 30px;
+    font-size: small;
+    color: rgb(137, 134, 134);
+}
+.booknowbtn{
+    POSITION: absolute;
+    /* right: 120px; */
+    left: 395px;
+    top: 24px;
+}
+.price-ticket{
+    position: relative;
+    left: 480px;
+    font-weight: 600;
+    font-size: larger;
+    top: -13px;
+}
+.time-tt{
+    position: relative;
+    left: 296px;
+}
+.review-bookin-main-div{
+    background-color: rgb(226, 225, 225);
+    overflow: hidden;
+}
+/* .review.ticket{
+    width: 983px;
+} */
+.review-bookin-data{
+    background-color: white;
+    width: 1011px;
+    margin-left: 23px;
+    height: 510px;
+}
+.img-review{
+    position: relative;
+    top: -147px;
+    left: 90px;
+}
+.review-code{
+    position: relative;
+    top: -160px;
+    left: 115px;
+    font-size: small;
+    color: rgb(137, 134, 134);
+}
+.review-deptfrom{
+    position: relative;
+    left: 258px;
+    top: 46px;
+    font: icon;
+}
+.review-flightdet{
+    position: relative;
+    top: -111px;
+    LEFT: 101PX;
+    font-size: small;
+    color: silver;
+}
+.review-startt{
+    position: relative;
+    left: 254px;
+    bottom: 245px;
+    font-size: x-large;
+
+}
+.review-rdate{
+    position: relative;
+    left: 804px;
+    top: -20px;
+}
+.review-endt{
+    position: relative;
+    left: 806px;
+    bottom: 307px;
+    font-size: x-large;
+    
+}
+.review-deptdate{
+    position: relative;
+    right: -249px;
+    bottom: -27px;
+}
+.review-deptto{
+    position: relative;
+    left: 819px;
+    top: 10px;
+    font: icon;
+}
+.review-class{
+    position: relative;
+    left: 624px;
+    top: -98px;
+}
+.review-tt{
+    position: relative;
+    left: 868px;
+    bottom: 412px;
+    font: menu;
+}
+.rev-pay{
+    left: 67px;
+    top: 20px;
+    position: relative;
+}
+.fare-span{
+    position: relative;
+    left: 1068px;
+    bottom: 850px;
+}
+.rev-price{
+    position: relative;
+    left: 1181px;
+    /* border: 332px; */
+    bottom: 300px;
+}
+.rev-price-div{
+    width: 253px;
+    height: 204px;
+    background-color: white;
+    top: -446px;
+    position: relative;
+    left: 1048px;
+}
+.search-traveltype{
+    position: relative;
+    left: 434px;
+    top: 22px;
+    font-size: small;
+    color: rgb(137, 134, 134);
+}
+.review-fname{
+    top: 104px;
+    position: absolute;
+    left: 140px;
+}
+.boarding-precautions{
+    background-color: wheat;
+    height: 280px;
+    width: 968px;
+    position: relative;
+    top: -335px;
+    left: 42px;
+}
+.precautions-header{
+
+}
+.rev-promo-code{
+    bottom: 905px;
+    position: relative;
+    left: 1070px;
+    height: 600px;
+    width: 256px;
+    background-color: white;
+}
+.promo-text{
+        position: relative;
+        top: -32px;
+}
+.promo-input{
+    border:none;
+    color: rgb(38, 238, 38);
+    border:thin dashed rgb(42, 151, 6);
+    padding:3px;
+    outline:none;
+}
+.promo-options{
+    position: relative;
+}
+.promoinp{
+    padding: 8px;
+}
+.input-mail-ph{
+    position: relative;
+    top: 50px;
+    left: 115px;
+}
+.book-inform{
+    position: relative;
+    top: 117px;
+    left: -257px;
+}
+.contact-det{
+    font-size: larger;
+    position: relative;
+    right: -73px;
+    top: 66px;
+}
+.phtext{
+    margin-left: 20px;
+}
+.traveler-names{
+    LEFT: 94PX;
+    position: relative;
+    bottom: -120PX;
+}
+.trvel-det{
+    font-size: large;
+    POSITION: RELATIVE;
+    left: -30px;
+    top: 15px;
+}
+.submit-btn{
+    position: relative;
+    bottom: 850px;
+    left: 500px;
+}
+.disc-tpay{
+    top: 104px;
+    position: relative;
+    left: -30px;
+}
+.Discount-if{
+    position: relative;
+    top: 32px;
+}
